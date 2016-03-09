@@ -1,0 +1,33 @@
+* {
+	margin: o;
+	padding: o;
+}
+body {
+	font-family: 'Crimson-text', sans-serif;
+}
+nav {
+	float: right;
+}
+nav li {
+	display: inline-block;
+	margin: 0 15px;
+}
+nav a {
+	color: #369;
+	text-decoration: none;
+}
+nav a.signin {
+	color: #18AFE0;
+}
+/*header*/
+header {
+	text-align: center;
+	clear: right;
+	padding: 5px 0;
+}
+header h1 {
+	font-size: 58px;
+	line-height: 58px;
+	margin: 10px 0;
+	color: #232323;
+}
